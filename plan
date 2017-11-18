@@ -1,0 +1,20 @@
+signup
+ just send data
+ put in database
+
+login
+ check if the inp is valid
+
+login: generate session token with timing
+close browser and see
+
+log off: delete the token
+
+signup: hash password and use in login
+
+
+signup: Validation using email
+
+
+
+
